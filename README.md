@@ -2,5 +2,5 @@
 
 =====================================
 
-This project developed by IT students for (senior graduate project).
+This project developed by IT students for (senior graduate project) in King Abdulaziz University - Rabigh.
 
