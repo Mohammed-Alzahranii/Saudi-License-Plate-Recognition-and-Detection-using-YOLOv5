@@ -1,0 +1,5 @@
+names:
+- license plate
+nc: 1
+train: LicensePlate_v2-1/train/images
+val: LicensePlate_v2-1/valid/images
